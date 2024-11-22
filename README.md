@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyesh-ashok" alt="divyesh-ashok" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack Web development**
+- 🌱 I’m currently learning **Full-stack Web development** and **Machine learning using Python**.
 
-- 📫 Reach me **divyeshashok004@gmail.com**
+- 📫 Reach me @**divyeshashok004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
